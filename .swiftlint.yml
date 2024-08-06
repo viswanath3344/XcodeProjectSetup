@@ -4,3 +4,5 @@ included:
 disabled_rules: 
   - line_length
 
+excluded:
+ - ProjectSetup/XCAssets+Generated.swift
