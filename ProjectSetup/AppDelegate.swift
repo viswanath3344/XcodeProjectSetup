@@ -5,9 +5,10 @@
 //  Created by Ponthota, Viswanath Reddy (Cognizant) on 06/08/24.
 //
 
+// Ref: https://www.youtube.com/watch?v=DPQVPtQt2q4
+
 import UIKit
 
-@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(
         _: UIApplication,

@@ -15,6 +15,7 @@
 		3F70BA5C2C61F558001F7FC8 /* ProjectSetupTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F70BA5B2C61F558001F7FC8 /* ProjectSetupTests.swift */; };
 		3F70BA662C61F558001F7FC8 /* ProjectSetupUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F70BA652C61F558001F7FC8 /* ProjectSetupUITests.swift */; };
 		3F70BA682C61F558001F7FC8 /* ProjectSetupUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F70BA672C61F558001F7FC8 /* ProjectSetupUITestsLaunchTests.swift */; };
+		3FF62AF42C621AB1004EE87D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF62AF32C621AB1004EE87D /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3F70BA612C61F558001F7FC8 /* ProjectSetupUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ProjectSetupUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F70BA652C61F558001F7FC8 /* ProjectSetupUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectSetupUITests.swift; sourceTree = "<group>"; };
 		3F70BA672C61F558001F7FC8 /* ProjectSetupUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectSetupUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		3FF62AF32C621AB1004EE87D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3F70BA4D2C61F558001F7FC8 /* Assets.xcassets */,
 				3F70BA4F2C61F558001F7FC8 /* LaunchScreen.storyboard */,
 				3F70BA522C61F558001F7FC8 /* Info.plist */,
+				3FF62AF32C621AB1004EE87D /* main.swift */,
 			);
 			path = ProjectSetup;
 			sourceTree = "<group>";
@@ -302,6 +305,7 @@
 			files = (
 				3F70BA492C61F556001F7FC8 /* ViewController.swift in Sources */,
 				3F70BA452C61F556001F7FC8 /* AppDelegate.swift in Sources */,
+				3FF62AF42C621AB1004EE87D /* main.swift in Sources */,
 				3F70BA472C61F556001F7FC8 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
